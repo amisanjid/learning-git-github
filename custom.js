@@ -1,0 +1,1 @@
+console.log('Slider custom module added');
