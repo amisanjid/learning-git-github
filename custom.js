@@ -1,1 +1,2 @@
-console.log('Slider custom module added');
+// Custom JavaScript from slider branch
+alert('Slider custom module added');
