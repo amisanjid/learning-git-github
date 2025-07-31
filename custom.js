@@ -1,3 +1,2 @@
-// custom.js from Master branch
-// modified in master branch 2nd time
+// Marged with master branch and slider branch
 console.log('Slider custom module added');
